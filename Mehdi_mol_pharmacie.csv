@@ -1,0 +1,73 @@
+,name,addresse,telephone,city
+0,Pharmacie Nisrine,Pharmacie Ismailia,Pharmacie Ismailia,Agadir
+1,Pharmacie Amrani,Pharmacie AlMahatta,Pharmacie AlMahatta,Agadir
+2,Pharmacie Tikida,Pharmacie Dar El Makhzen,Pharmacie Dar El Makhzen,Agadir
+3,Pharmacie Tildi,Pharmacie Kachadiya,Pharmacie Kachadiya,Agadir
+4,Pharmacie Chadia,Pharmacie Le Monde,Pharmacie Le Monde,Agadir
+5,Pharmacie Cadi Ben Driss,Pharmacie Taha Houssein,Pharmacie Taha Houssein,Agadir
+6,Pharmacie El Hassania,Pharmacie Ismailia,Pharmacie Ismailia,Agadir
+7,Pharmacie Al Haad,Pharmacie AlMahatta,Pharmacie AlMahatta,Agadir
+8,Pharmacie El Wafa,Pharmacie Dar El Makhzen,Pharmacie Dar El Makhzen,Agadir
+9,Pharmacie Valtur,Pharmacie Kachadiya,Pharmacie Kachadiya,Agadir
+10,Pharmacie Ouahbi,Pharmacie Le Monde,Pharmacie Le Monde,Agadir
+11,Pharmacie de Bourgogne,Pharmacie Taha Houssein,Pharmacie Taha Houssein,Agadir
+12,Pharmacie la Palmeraie,Pharmacie Ismailia,Pharmacie Ismailia,Casablanca
+13,Pharmacie Résidence Al Yakine,Pharmacie AlMahatta,Pharmacie AlMahatta,Casablanca
+14,Pharmacie Taddart,Pharmacie Dar El Makhzen,Pharmacie Dar El Makhzen,Casablanca
+15,Pharmacie Marché Santra,Pharmacie Kachadiya,Pharmacie Kachadiya,Casablanca
+16,Pharmacie du Caf,Pharmacie Le Monde,Pharmacie Le Monde,Casablanca
+17,Pharmacie Casa Hills,Pharmacie Taha Houssein,Pharmacie Taha Houssein,Casablanca
+18,Pharmacie Prefecture Bernoussi,Pharmacie Ismailia,Pharmacie Ismailia,Casablanca
+19,Pharmacie Tissir II,Pharmacie AlMahatta,Pharmacie AlMahatta,Casablanca
+20,Pharmacie Belakhdar,Pharmacie Dar El Makhzen,Pharmacie Dar El Makhzen,Casablanca
+21,Pharmacie AlAndaloussia,Pharmacie Kachadiya,Pharmacie Kachadiya,Casablanca
+22,Pharmacie Aman,Pharmacie Le Monde,Pharmacie Le Monde,Casablanca
+23,Pharmacie derb Tolba,Pharmacie Taha Houssein,Pharmacie Taha Houssein,Casablanca
+24,Pharmacie Ibn Sina,Pharmacie Ismailia,Pharmacie Ismailia,Rabat
+25,Pharmacie Parisienne -Ex Wilaya,Pharmacie AlMahatta,Pharmacie AlMahatta,Rabat
+26,Pharmacie du Polo,Pharmacie Dar El Makhzen,Pharmacie Dar El Makhzen,Rabat
+27,Pharmacie la Villette,Pharmacie Kachadiya,Pharmacie Kachadiya,Rabat
+28,Pharmacie Alouati,Pharmacie Le Monde,Pharmacie Le Monde,Rabat
+29,Pharmacie du Louvre,Pharmacie Taha Houssein,Pharmacie Taha Houssein,Rabat
+30,Pharmacie Annia,Pharmacie Ismailia,Pharmacie Ismailia,Rabat
+31,Pharmacie Jnane Oulfa,Pharmacie AlMahatta,Pharmacie AlMahatta,Rabat
+32,Pharmacie hay Makam,Pharmacie Dar El Makhzen,Pharmacie Dar El Makhzen,Rabat
+33,Pharmacie Univers Santé,Pharmacie Kachadiya,Pharmacie Kachadiya,Rabat
+34,Pharmacie de Casablanca,Pharmacie Le Monde,Pharmacie Le Monde,Rabat
+35,Pharmacie Alkhayria,Pharmacie Taha Houssein,Pharmacie Taha Houssein,Rabat
+36,Pharmacie Du Rond Point Aicha  (Univers),Pharmacie Ismailia,Pharmacie Ismailia,Fes
+37,Pharmacie Sabri,Pharmacie AlMahatta,Pharmacie AlMahatta,Fes
+38,Pharmacie Ahmed Ali,Pharmacie Dar El Makhzen,Pharmacie Dar El Makhzen,Fes
+39,Pharmacie Centre Commercial,Pharmacie Kachadiya,Pharmacie Kachadiya,Fes
+40,Pharmacie ElMorakab Ettakafi,Pharmacie Le Monde,Pharmacie Le Monde,Fes
+41,Pharmacie Tam,Pharmacie Taha Houssein,Pharmacie Taha Houssein,Fes
+42,Pharmacie des Habous,Pharmacie Ismailia,Pharmacie Ismailia,Fes
+43,Pharmacie Noufissa,Pharmacie AlMahatta,Pharmacie AlMahatta,Fes
+44,Pharmacie de l'Esperance,Pharmacie Dar El Makhzen,Pharmacie Dar El Makhzen,Fes
+45,Pharmacie le Projet,Pharmacie Kachadiya,Pharmacie Kachadiya,Fes
+46,Pharmacie Al Walaâ,Pharmacie Le Monde,Pharmacie Le Monde,Fes
+47,Pharmacie le Nord,Pharmacie Taha Houssein,Pharmacie Taha Houssein,Fes
+48,Pharmacie Khalil Al Fadl,Pharmacie Ismailia,Pharmacie Ismailia,Tanger
+49,Pharmacie des Troenes,Pharmacie AlMahatta,Pharmacie AlMahatta,Tanger
+50,Pharmacie Lotf Allah,Pharmacie Dar El Makhzen,Pharmacie Dar El Makhzen,Tanger
+51,Pharmacie Al Bouchra,Pharmacie Kachadiya,Pharmacie Kachadiya,Tanger
+52,Pharmacie Secteur 15,Pharmacie Le Monde,Pharmacie Le Monde,Tanger
+53,Pharmacie Moulay Ismail,Pharmacie Taha Houssein,Pharmacie Taha Houssein,Tanger
+54,Pharmacie Iswane,Pharmacie Ismailia,Pharmacie Ismailia,Tanger
+55,Pharmacie Marassa,Pharmacie AlMahatta,Pharmacie AlMahatta,Tanger
+56,Pharmacie L'enfant,Pharmacie Dar El Makhzen,Pharmacie Dar El Makhzen,Tanger
+57,Pharmacie Kasry,Pharmacie Kachadiya,Pharmacie Kachadiya,Tanger
+58,Pharmacie Saida,Pharmacie Le Monde,Pharmacie Le Monde,Tanger
+59,Pharmacie Chifae Oulad Maala,Pharmacie Taha Houssein,Pharmacie Taha Houssein,Tanger
+60,Pharmacie Chaymae,Pharmacie Ismailia,Pharmacie Ismailia,Safi
+61,Pharmacie Cotef,Pharmacie AlMahatta,Pharmacie AlMahatta,Safi
+62,Pharmacie Blida,Pharmacie Dar El Makhzen,Pharmacie Dar El Makhzen,Safi
+63,Pharmacie Al Farabi,Pharmacie Kachadiya,Pharmacie Kachadiya,Safi
+64,Pharmacie Ain Hayyani,Pharmacie Le Monde,Pharmacie Le Monde,Safi
+65,Pharmacie Aazib Abakkiwe,Pharmacie Taha Houssein,Pharmacie Taha Houssein,Safi
+66,Pharmacie Saada,Pharmacie Ismailia,Pharmacie Ismailia,Safi
+67,Pharmacie Zahara,Pharmacie AlMahatta,Pharmacie AlMahatta,Safi
+68,Pharmacie El Mesnaoui,Pharmacie Dar El Makhzen,Pharmacie Dar El Makhzen,Safi
+69,Pharmacie Ibn Annafis,Pharmacie Kachadiya,Pharmacie Kachadiya,Safi
+70,Pharmacie Yamania,Pharmacie Le Monde,Pharmacie Le Monde,Safi
+71,Pharmacie La Raison,Pharmacie Taha Houssein,Pharmacie Taha Houssein,Safi
