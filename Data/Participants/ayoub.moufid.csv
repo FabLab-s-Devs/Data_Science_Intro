@@ -1,0 +1,133 @@
+,nam,address,telephone,city
+0,Pharmacie Dakhla,"Pharmacie Dakhla, 14, rue al farabi, c... ",052822...,agadir
+1,Pharmacie Paris,"Pharmacie Paris, rue talat, résid. da... ",052826...,agadir
+2,Pharmacie AlMouna,"Pharmacie AlMouna, bd abderrahim bouab... ",052822...,agadir
+3,Pharmacie Founty,"Pharmacie Founty, 11, bd hassan ii, a ... ",052884...,agadir
+4,Pharmacie le Caducée,"Pharmacie le Caducée, 6, bd abderrahi... ",052823...,agadir
+5,Pharmacie Moulay Youssef, ,077051...,agadir
+6,Pharmacie Zineb,"Pharmacie Zineb, hay mohammadi, imm. b... ",052823...,agadir
+7,Pharmacie Maroc,"Pharmacie Maroc, hay al houda, imm. en... ",052832...,agadir
+8,Pharmacie Oubelkhir,"Pharmacie Oubelkhir, rue 110 hay el fa... ",052828...,agadir
+9,Pharmacie Lamalmi,"Pharmacie Lamalmi, 594  bd. AlMassira... ",053633...,nador
+10,Pharmacie AlMahatta,"Pharmacie AlMahatta, 254  av Hassan II... ",053660...,nador
+11,Pharmacie Dar El Makhzen,"Pharmacie Dar El Makhzen, Douar Bouyza... ",053633...,nador
+12,Pharmacie Baraka,"Pharmacie Baraka, rue Baraka   ouled M... ",053660...,nador
+13,Pharmacie Al Karam,"Pharmacie Al Karam, azib abkiou, route... ",053995...,tanger
+14,Pharmacie Souani,"Pharmacie Souani, 43, avenue d'anfa so... ",053993...,tanger
+15,Pharmacie Sabila Jmaa,"Pharmacie Sabila Jmaa, 1, rue malte, s... ",053937...,tanger
+16,Pharmacie Gibraltar,"Pharmacie Gibraltar, 7, route de malab... ",053932...,tanger
+17,Pharmacie Sania,"Pharmacie Sania, 2 bis, rue 3 sania, b... ",053936...,tanger
+18,Pharmacie Al Masjid,"Pharmacie Al Masjid, avenue des far, r... ",053931...,tanger
+19,Pharmacie Boukhalef,"Pharmacie Boukhalef, avenue moulay rac... ",053939...,tanger
+20,Pharmacie Azhar Chifae,"Pharmacie Azhar Chifae, route principa... ",053995...,tanger
+21,Pharmacie Chaab,"Pharmacie Chaab, hay Moulay Abdallah, ... ",052252...,casablanca
+22,Pharmacie des Citronniers,"Pharmacie des Citronniers, 29 Bis, all... ",052234...,casablanca
+23,Pharmacie Belvédère,"Pharmacie Belvédère, n°13, rue de S... ",052224...,casablanca
+24,Pharmacie Abou Soulaimane,"Pharmacie Abou Soulaimane, 4, rue Abou... ",052282...,casablanca
+25,Pharmacie du Golf d'Anfa,"Pharmacie du Golf d'Anfa, 5 C, av. Hab... ",052239...,casablanca
+26,Pharmacie Kounouz,"Pharmacie Kounouz, bd Chefchaouni, km.... ",052267...,casablanca
+27,Pharmacie Abdelhadi,"Pharmacie Abdelhadi, 149, avenue Akid ... ",052270...,casablanca
+28,Pharmacie Ryad Sofia,"Pharmacie Ryad Sofia, quartier Lissasf... ",052290...,casablanca
+29,Pharmacie Afak,"Pharmacie Afak, hay Mohammadi, bloc 22... ",052262...,casablanca
+30,Pharmacie Ibn Batouta,"Pharmacie Ibn Batouta, 78, rue Ibn Bat... ",052222...,casablanca
+31,Pharmacie de l'hôpital Med V,"Pharmacie de l'hôpital Med V, 62  bd ... ",052235...,casablanca
+32,Pharmacie Kissariat Aziza,"Pharmacie Kissariat Aziza, 86, bd de l... ",052263...,casablanca
+33,Pharmacie Zamzam,"Pharmacie Zamzam, lotiss. Lina, H2 lot... ",052258...,casablanca
+34,Pharmacie Sophia,"Pharmacie Sophia, 214, bd Ibn Sina - e... ",052236...,casablanca
+35,Pharmacie Adil,"Pharmacie Adil, hay Mohammadi, ElMassi... ",052263...,casablanca
+36,Pharmacie Narjis,"Pharmacie Narjis, 141, bd Yacoub El Ma... ",052225...,casablanca
+37,Pharmacie des Abattoirs,"Pharmacie des Abattoirs, N°78, Rue Ab... ",052262...,casablanca
+38,Pharmacie Porte de Californie,"Pharmacie Porte de Californie, 109, ro... ",052281...,casablanca
+39,Pharmacie Ibtisseme,"Pharmacie Ibtisseme, 98, hay Pam , Oul... ",052297...,casablanca
+40,Pharmacie Noon,"Pharmacie Noon, 12, rue abdelkrim el y... ",052263...,casablanca
+41,Pharmacie Krimat,"Pharmacie Krimat, 341, bd Panoramique ... ",052252...,casablanca
+42,Pharmacie Ahl Assalam,"Pharmacie Ahl Assalam, Quartier Ahl Lo... ",052201...,casablanca
+43,Pharmacie AlHakim,"Pharmacie AlHakim,   hay Hassani ang. ... ",052290...,casablanca
+44,Pharmacie Riad Al Hadika,"Pharmacie Riad Al Hadika, lotiss. Alha... ",052270...,casablanca
+45,Pharmacie Jawad,"Pharmacie Jawad, hay Moulay Rachid II ... ",052270...,casablanca
+46,Pharmacie l'Horizon,"Pharmacie l'Horizon, hay Saada ang. ru... ",052275...,casablanca
+47,Pharmacie Loukkos,"Pharmacie Loukkos, 125/127, bd Oued Zi... ",052290...,casablanca
+48,Pharmacie Athina,"Pharmacie Athina, cité Chabab, grp. C... ",052273...,casablanca
+49,Pharmacie Siham,"Pharmacie Siham, lot. Omariya, rue 31 ... ",052252...,casablanca
+50,Pharmacie du lycée,"Pharmacie du lycée, 8  rue de la Réu... ",052229...,casablanca
+51,Pharmacie Ouzineb,"Pharmacie Ouzineb, 161, Bd Oqba Bnou N... ",052262...,casablanca
+52,Pharmacie Mehdi Ben Barka,"Pharmacie Mehdi Ben Barka, avenue Mehd... ",052295...,casablanca
+53,Pharmacie Ahmed Rayan,"Pharmacie Ahmed Rayan, hay El Oulfa, r... ",052289...,casablanca
+54,Pharmacie Nasser,"Pharmacie Nasser, derb Sidi Maarouf IV... ",052228...,casablanca
+55,Pharmacie Dikr Allah,"Pharmacie Dikr Allah, hay Sidi Moumen,... ",052270...,casablanca
+56,Pharmacie ElYousr,"Pharmacie ElYousr, 32  bd de la Girond... ",052244...,casablanca
+57, Pharmacie Al Morouna," Pharmacie Al Morouna, 13  bab Anassi ... ",080863...,casablanca
+58,Pharmacie AlWissal,"Pharmacie AlWissal, bd Dr Mohamed Jenn... ",052263...,casablanca
+59,Pharmacie Centrale Aïn Borja,"Pharmacie Centrale Aïn Borja, hay Ars... ",052260...,casablanca
+60,Pharmacie Mimosas,"Pharmacie Mimosas, 400, bd Abdallah Ib... ",052298...,casablanca
+61,Pharmacie du Grand Maghreb,"Pharmacie du Grand Maghreb, hay Moulay... ",052270...,casablanca
+62,Pharmacie Michlifen,"Pharmacie Michlifen, 2 av michlifen... ",053767...,rabat
+63,Pharmacie Normale,"Pharmacie Normale, 21, av. allal ben a... ",053770...,rabat
+64,Pharmacie Arrahmane,"Pharmacie Arrahmane, groupe 20, 15 bis... ",053728...,rabat
+65,Pharmacie Jnane Ennahda,"Pharmacie Jnane Ennahda, imm, 8 n°6 l... ",053775...,rabat
+66,Pharmacie Al Melia,"Pharmacie Al Melia, avenue dr abdelkri... ",053775...,rabat
+67,Pharmacie Tazi,"pharmacie tazi, n 11 lot. lahbabi, dok... ",053593...,fes
+68,Pharmacie Fatima Fihriya,"Pharmacie Fatima Fihriya, n°167, derb... ",053574...,fes
+69,Pharmacie Espace Vert,"Pharmacie Espace Vert, lotissement jna... ",060290...,fes
+70,Pharmacie La Providence,"Pharmacie La Providence, n° 260 d, lo... ",053216...,fes
+71,Pharmacie Mont Fleuri,"pharmacie mont fleuri, bd karama mont ... ",053564...,fes
+72,Pharmacie Al Marwa,"pharmacie almarwa, lot alhadiqa 2 al o... ",053564...,fes
+73,Pharmacie Sara,"Pharmacie Sara, 42, lotiss. AlGhfirat ... ",052465...,safi
+74,Pharmacie Kodali,"Pharmacie Kodali, 5  centre commercial... ",052461...,safi
+75,Pharmacie Sidi Bouzid,"Pharmacie Sidi Bouzid, rte de Sidi Bou... ",052466...,safi
+76,Pharmacie Alimane,"Pharmacie Alimane, Jnane Zitoune , rue... ",052462...,safi
+77,Pharmacie Miftah ElKheir,"Pharmacie Miftah ElKheir, lot. Najah I... ",052466...,safi
+78,Pharmacie Chenguit,"Pharmacie Chenguit, 11, Lot. Rida , Si... ",052466...,safi
+79,Pharmacie Laarissa,"Pharmacie Laarissa, Quartier Laarissa ... ",052465...,safi
+80,Pharmacie la Vallée,"Pharmacie la Vallée, 7  bd Hassan II ... ",052462...,safi
+81,Pharmacie Du Passage,"Pharmacie Du Passage, 133  rte 206   A... ",053736...,kenitra
+82,Pharmacie Centrale,"Pharmacie Centrale, Pl. Chouhada, rue ... ",053737...,kenitra
+83,Pharmacie Le Vallon,"Pharmacie Le Vallon, 309, hay Sayad, 2... ",053735...,kenitra
+84,Pharmacie Dar Taleb,hôtel ayoub en face de la fac. de mé... ,052005...,marrakech
+85,Pharmacie Alhouda,"Pharmacie Alhouda, 368  lotiss. Sidi M... ",052434...,marrakech
+86,Pharmacie Sheraton,"Pharmacie Sheraton, av. mohammed vi re... ",052443...,marrakech
+87,Pharmacie Chams Nakhil,"Pharmacie Chams Nakhil, lakhili arset ... ",052980...,marrakech
+88,Pharmacie Miftah Al Atlas,"Pharmacie Miftah Al Atlas, lamhamid bo... ",070764...,marrakech
+89,Pharmacie Salam,"Pharmacie Salam, 240, targa sidi m’b... ",052434...,marrakech
+90,Pharmacie Les Vergers,"Pharmacie Les Vergers, lot. badr 16 pr... ",052442...,marrakech
+91,Pharmacie Acharaf,"Pharmacie Acharaf, 872, Lot. Acharaf f... ",052430...,marrakech
+92,Pharmacie Wilayat Al Amne,"Pharmacie Wilayat Al Amne, n°4 et 5, ... ",052430...,marrakech
+93,Pharmacie Bab Mansour,"Pharmacie Bab Mansour, op. bab mansour... ",062268...,marrakech
+94,Pharmacie Borj Ennakhil,"Pharmacie Borj Ennakhil, route de fès... ",052432...,marrakech
+95,Pharmacie Dubai,"Pharmacie Dubai, 6, mosquée al irfane... ",052429...,marrakech
+96,Pharmacie Urgence,"Pharmacie Urgence, toudgha n°28 près... ",052437...,marrakech
+97,Pharmacie Nazik,"Pharmacie Nazik, 142, le 2ème feu rou... ",052435...,marrakech
+98,Pharmacie Koutoubia,"Pharmacie Koutoubia, Av. Fatima Zohra ... ",052438...,marrakech
+99,Pharmacie Khalid Ben ElWalid,"Pharmacie Khalid Ben ElWalid,   hay Mo... ",052430...,marrakech
+100,Pharmacie AlAbawayn,"Pharmacie AlAbawayn,   lotiss. Al Fadl... ",052433...,marrakech
+101,Pharmacie  Nakhil,"Pharmacie  Nakhil,   bd Yacoub El Mans... ",052444...,marrakech
+102,Pharmacie Socoma,"Pharmacie Socoma, 84, lot. socoma derr... ",052449...,marrakech
+103,Pharmacie Bassatine Targa,"Pharmacie Bassatine Targa, Espaces Ess... ",052435...,marrakech
+104,Pharmacie Lakhili,"Pharmacie Lakhili, 103, lakhili à cô... ",054012...,marrakech
+105,Pharmacie Eddafali,"Pharmacie Eddafali, 1, rue imam ali mo... ",052443...,marrakech
+106,Pharmacie Qaryia Syahyia,"Pharmacie Qaryia Syahyia, Qaria Syahia... ",052430...,marrakech
+107,Pharmacie Santé et Bien Etre,"Pharmacie Santé et Bien Etre,   rte d... ",052437...,marrakech
+108,Pharmacie Hay Machou,"Pharmacie Hay Machou, 236, Douar Macho... ",064811...,marrakech
+109,Pharmacie de la Palestine,"Pharmacie de la Palestine, 415  lotiss... ",052440...,marrakech
+110,Pharmacie AlFath,"Pharmacie AlFath, 398  hay Massira II ... ",052434...,marrakech
+111,Pharmacie Amerchich, ,052430...,marrakech
+112,Pharmacie Jnane,"Pharmacie Jnane, 318 Bis, Lot S.Y.B.A ... ",052440...,marrakech
+113,Pharmacie Soudri,"Pharmacie Soudri, 391, Socoma B Soudri... ",052434...,marrakech
+114,Pharmacie Bouakkaz,"Pharmacie Bouakkaz, lot. bouakkaz, rou... ",052437...,marrakech
+115,Pharmacie Cadi Ayyad,"Pharmacie Cadi Ayyad, 253, sidi abbad ... ",052430...,marrakech
+116,Pharmacie Morakab Souk Lkhmiss,"Pharmacie Morakab Souk Lkhmiss, 1, Mor... ",052439...,marrakech
+117,Pharmacie Tilila,"Pharmacie Tilila, route clinique le ma... ",052434...,marrakech
+118,Pharmacie Bab Assalam,"Pharmacie Bab Assalam, mhamid 9 n°323... ",063132...,marrakech
+119,Pharmacie Petit Marche,"Pharmacie Petit Marche, 5, qt. militai... ",052443...,marrakech
+120,Pharmacie Zerktouni,"Pharmacie Zerktouni, 391, Massira 1 «... ",052434...,marrakech
+121,Pharmacie Residence Annassim,"Pharmacie Residence Annassim, résiden... ",052439...,marrakech
+122,Pharmacie El Imame Ali,"Pharmacie El Imame Ali, 631, zohour i ... ",052432...,marrakech
+123,Pharmacie Nakhil Mhamid,"Pharmacie Nakhil Mhamid, Mhamid 5 Av. ... ",052436...,marrakech
+124,Pharmacie des Sciences,"Pharmacie des Sciences,   bd Prince Mo... ",052430...,marrakech
+125,Pharmacie Gueldamane,"Pharmacie Gueldamane, 19  Centre Gueld... ",062350...,taza
+126,Pharmacie Hay ElHassani Hajra,"Pharmacie Hay ElHassani Hajra, hay ElH... ",053528...,taza
+127,Pharmacie Ibn Rochd,"Pharmacie Ibn Rochd, 85  rue Sultan Ab... ",053567...,taza
+128,Pharmacie Sidi Daoud,"Pharmacie Sidi Daoud, bd Mohammed V, l... ",052488...,ouarzazate
+129,Pharmacie la Paix,"Pharmacie la Paix, 154  hay Mohammadi ... ",052489...,ouarzazate
+130,Pharmacie Ait Kdif,"Pharmacie Ait Kdif, Hay Ait Kdif , n°... ",052488...,ouarzazate
+131,Pharmacie la Kasbah, ,052488...,ouarzazate
